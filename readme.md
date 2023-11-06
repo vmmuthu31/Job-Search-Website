@@ -126,4 +126,4 @@ Disadvantages
 In conclusion, the Job Search Website project successfully addresses the challenges faced by both job seekers and employers. By leveraging innovative technologies and user-centric design, the platform provides a seamless experience, making job hunting and hiring processes more efficient and effective.
 
 9. FUTURE SCOPE
-The future scope of the project includes implementing AI-driven features such as
+The future scope of the project includes implementing AI-driven features such as many aspects
